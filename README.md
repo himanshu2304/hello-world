@@ -2,4 +2,4 @@
 Test repository edited
 Hello everyone!
 
-This is Himanshu Srivastava (you can call me hims)
+This is Himanshu Srivastava
